@@ -48,6 +48,9 @@ The final outputs help answer questions like:
 
 ![Project Architecture](architecture.png)
 
+## Model View
+![Model View](Model_View.jpg)
+
 ### Typical architecture flow in this project
 
 1. **Data Source Layer**  
