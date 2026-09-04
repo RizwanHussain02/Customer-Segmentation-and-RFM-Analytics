@@ -1,6 +1,8 @@
+[![Project](https://img.shields.io/badge/Project-Enterprise%20Retail%20Analytics-blue)](https://github.com/RizwanHussain02/Customer-Segmentation-and-RFM-Analytics) [![Notebooks](https://img.shields.io/badge/Artifacts-Jupyter%20Notebooks-orange)](https://github.com/RizwanHussain02/Customer-Segmentation-and-RFM-Analytics/tree/main/notebooks) [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://github.com/RizwanHussain02/Customer-Segmentation-and-RFM-Analytics/blob/main/LICENSE)
+
 # 📊 Customer Segmentation and RFM Analytics
 
-An end-to-end customer analytics project focused on **Customer Segmentation** and **RFM (Recency, Frequency, Monetary) Analysis** to understand customer behavior, improve targeting, and support data-driven business decisions.
+An end-to-end customer analytics project focused on **Customer Segmentation** and **RFM (Recency, Frequency, Monetary) Analysis** to understand customer behavior, improve targeting, and support dat[...]
 
 This project combines **PostgreSQL**, **SQL-based warehousing**, **Python**, **Machine Learning**, and **Power BI** to analyze sales, customer patterns, product trends, and regional performance.
 
