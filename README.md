@@ -1,6 +1,6 @@
 [![Project](https://img.shields.io/badge/Project-Customer%20Segmentation%20%26%20RFM-blue)](https://github.com/RizwanHussain02/Customer-Segmentation-and-RFM-Analytics) [![Notebooks](https://img.shields.io/badge/Artifacts-Jupyter%20Notebooks-orange)](https://github.com/RizwanHussain02/Customer-Segmentation-and-RFM-Analytics/tree/main/notebooks) [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://github.com/RizwanHussain02/Customer-Segmentation-and-RFM-Analytics/blob/main/LICENSE)
 
-# 📊 Customer Segmentation and RFM Analytics
+# Customer Segmentation and RFM Analytics
 
 An end-to-end customer analytics project focused on **Customer Segmentation** and **RFM (Recency, Frequency, Monetary) Analysis** to understand customer behavior, improve targeting, and support data-d[...] 
 
@@ -40,6 +40,9 @@ The final outputs help answer questions like:
 
 
 ---
+
+## Report Demo
+![Demo](Demo.gif)
 
 ## 🏗️ Project Architecture
 
